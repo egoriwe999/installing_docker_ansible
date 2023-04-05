@@ -1,4 +1,4 @@
-# How to download Docker and Docker-Compose through Ansible?
+# How to install Docker and Docker-Compose through Ansible?
 
 
 Run: 
